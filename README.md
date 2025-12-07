@@ -67,7 +67,6 @@ Designed using Figma:
 - Trend discovery dashboard  
 - Creator workspace  
 
-(Upload images/screenshots here)
 
 ---
 
